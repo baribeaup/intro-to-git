@@ -1,0 +1,5 @@
+# WORKING DIRECTORY
+# V--- Add
+# STAGING AREA
+# V--- Commit
+# GIT REPOSITORY
