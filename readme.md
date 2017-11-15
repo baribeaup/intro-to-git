@@ -3,3 +3,5 @@
 # STAGING AREA
 # V--- Commit
 # GIT REPOSITORY
+# A---  Log
+
