@@ -1,5 +1,6 @@
 # WORKING DIRECTORY
 #			Use "ls -a" to list directory contents including hidden files.
+#			To ignore files, create a file called ".gitignore" and add the filenames and extensions (1/line) of the files to ignore
 # V--- Add
 #			You can use * as a wildcard character, and only add files that match. eg. "git add *.html" would only add html files.
 #			"git add -A" stages all, including hidden
@@ -10,4 +11,3 @@
 # V--- Commit
 # GIT REPOSITORY
 # A---  Log
-
