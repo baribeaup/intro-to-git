@@ -17,4 +17,5 @@
 # git branch: list all branches
 # git checkout -b (branch_name): add a new branch
 # git checkout (branch_name): switch to a different existing branch
+# git merge (branch_b) -m "justification message": while in branch a, merge branch b into this branch
 # 
