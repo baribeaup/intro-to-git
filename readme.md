@@ -11,3 +11,10 @@
 # V--- Commit
 # GIT REPOSITORY
 # A---  Log
+
+
+
+# git branch: list all branches
+# git checkout -b (branch_name): add a new branch
+# git checkout (branch_name): switch to a different existing branch
+# 
